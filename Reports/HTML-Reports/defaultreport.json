@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7203172658,
+              "duration": 7258841236,
               "status": "passed"
             },
             "line": 7,
@@ -34,7 +34,7 @@
           },
           {
             "result": {
-              "duration": 1150493762,
+              "duration": 1127027136,
               "status": "passed"
             },
             "line": 8,
@@ -46,7 +46,7 @@
           },
           {
             "result": {
-              "duration": 1120511229,
+              "duration": 1095656994,
               "status": "passed"
             },
             "line": 9,
@@ -58,7 +58,7 @@
           },
           {
             "result": {
-              "duration": 6498807978,
+              "duration": 6530224562,
               "status": "passed"
             },
             "line": 10,
@@ -70,7 +70,7 @@
           },
           {
             "result": {
-              "duration": 2094367178,
+              "duration": 2096401583,
               "status": "passed"
             },
             "line": 11,
@@ -82,7 +82,7 @@
           },
           {
             "result": {
-              "duration": 231504409,
+              "duration": 572510933,
               "status": "passed"
             },
             "line": 12,
@@ -110,7 +110,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6747274058,
+              "duration": 6486581167,
               "status": "passed"
             },
             "line": 17,
@@ -132,7 +132,7 @@
           },
           {
             "result": {
-              "duration": 1095897512,
+              "duration": 1108955001,
               "status": "passed"
             },
             "line": 18,
@@ -144,7 +144,7 @@
           },
           {
             "result": {
-              "duration": 1113777836,
+              "duration": 1090919491,
               "status": "passed"
             },
             "line": 19,
@@ -156,7 +156,7 @@
           },
           {
             "result": {
-              "duration": 3393743189,
+              "duration": 3681429308,
               "status": "passed"
             },
             "line": 20,
@@ -168,7 +168,7 @@
           },
           {
             "result": {
-              "duration": 323618943,
+              "duration": 311399683,
               "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat stepdefination.SmokeTest_step.error_displayed(SmokeTest_step.java:124)\r\n\tat ✽.Then error message is displayed on login page(SmokeTest.feature:21)\r\n",
               "status": "failed"
             },

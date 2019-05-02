@@ -70,42 +70,42 @@ formatter.match({
   "location": "SmokeTest_step.ibcg_login_page_is_opened_in_a_web_browser(String,String)"
 });
 formatter.result({
-  "duration": 7203172658,
+  "duration": 7258841236,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTest_step.user_enters_valid_username()"
 });
 formatter.result({
-  "duration": 1150493762,
+  "duration": 1127027136,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTest_step.user_enters_valid_password()"
 });
 formatter.result({
-  "duration": 1120511229,
+  "duration": 1095656994,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTest_step.user_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 6498807978,
+  "duration": 6530224562,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTest_step.user_gets_logged_in_successfully_and_home_page_is_displayed()"
 });
 formatter.result({
-  "duration": 2094367178,
+  "duration": 2096401583,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTest_step.Close_browser_window()"
 });
 formatter.result({
-  "duration": 231504409,
+  "duration": 572510933,
   "status": "passed"
 });
 formatter.scenario({
@@ -166,35 +166,35 @@ formatter.match({
   "location": "SmokeTest_step.ibcg_login_page_is_opened_in_a_web_browser(String,String)"
 });
 formatter.result({
-  "duration": 6747274058,
+  "duration": 6486581167,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTest_step.user_enters_valid_username()"
 });
 formatter.result({
-  "duration": 1095897512,
+  "duration": 1108955001,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTest_step.user_enters_valid_password()"
 });
 formatter.result({
-  "duration": 1113777836,
+  "duration": 1090919491,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTest_step.user_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 3393743189,
+  "duration": 3681429308,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTest_step.error_displayed()"
 });
 formatter.result({
-  "duration": 323618943,
+  "duration": 311399683,
   "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat stepdefination.SmokeTest_step.error_displayed(SmokeTest_step.java:124)\r\n\tat ✽.Then error message is displayed on login page(SmokeTest.feature:21)\r\n",
   "status": "failed"
 });
